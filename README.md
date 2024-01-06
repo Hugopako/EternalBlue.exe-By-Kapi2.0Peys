@@ -1,2 +1,6 @@
-# EternalBlue.exe-By-Kapi2.0Peys
-That No Skid, This Is Not Be confused By The Skidded EternalBlue By TFM2661/Compot1234
+# EternalBlue.exe
+*malware c#
+
+*you need net framework 3.5
+
+*work windows xp - 11
